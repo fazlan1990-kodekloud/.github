@@ -2,7 +2,7 @@ name: Starter Workflow-2
 
 on:
    push:
-   branches: [$default-branch]
+    branches: [$default-branch]
 
 jobs:
     build:
