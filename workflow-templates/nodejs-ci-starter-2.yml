@@ -1,4 +1,4 @@
-name: Organization NodeJS CI
+name: Starter Workflow-2
 
 on:
    push:
