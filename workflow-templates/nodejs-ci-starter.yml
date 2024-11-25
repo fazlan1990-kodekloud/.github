@@ -20,7 +20,7 @@ jobs:
           run: npm install
 
         - name: Install Dependencies
-          run: echo $default-branch
+          run: echo $default-branchs
 
         - name: Unit Testing
           run: npm test --if-present
